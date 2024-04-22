@@ -153,14 +153,14 @@ body {
 
 #myCarousel {
   min-height: 100%;
-    background: linear-gradient(0deg, rgb(48 46 47 / 85%), rgb(0 0 0 / 40%)), url(/assets/img/153212766_out.png);
+    background: linear-gradient(0deg, rgb(48 46 47 / 85%), rgb(0 0 0 / 40%)), url(assets/img/153212766_out.png);
     background-size: cover;
     background-position: center;
 }
 
 #myCarousel2 {
   min-height: 100%;
-    background: linear-gradient(0deg, rgb(48 46 47 / 85%), rgb(0 0 0 / 40%)), url(/assets/img/160021494.jpg);
+    background: linear-gradient(0deg, rgb(48 46 47 / 85%), rgb(0 0 0 / 40%)), url(assets/img/160021494.jpg);
     background-size: cover;
     background-position: bottom;
 }
@@ -184,7 +184,7 @@ body {
 .masthead {
   height: 85vh;
   min-height: 500px;
-background: linear-gradient(0deg, rgb(48 46 47 / 34%), rgb(0 0 0 / 28%)), url(/assets/img/bb_beach.jpg);
+background: linear-gradient(0deg, rgb(48 46 47 / 34%), rgb(0 0 0 / 28%)), url(assets/img/bb_beach.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
